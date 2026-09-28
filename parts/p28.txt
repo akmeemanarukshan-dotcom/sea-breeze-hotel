@@ -1,0 +1,10 @@
+
+<section class="section story" id="story">
+  <div class="wrap story-grid">
+    <div class="story-number reveal">2003</div>
+    <div class="story-copy reveal">
+      <p class="eyebrow light">Our Story</p>
+      <h2>From a small seaside restaurant to Sea Breeze Hotel.</h2>
+      <p>The Sea Breeze story began in 2003. Over time, the original restaurant grew into a hotel with accommodation, banquet spaces, a seafood restaurant and landscaped gardens — built around a simple aim: welcoming guests with thoughtful service.</p>
+      <div class="story-quote">“To provide an exquisite service for our clients.”</div>
+    </div>
